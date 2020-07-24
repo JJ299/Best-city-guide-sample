@@ -116,8 +116,29 @@ a {
 		margin-left: 12px;
 	}
 
+	.secondary {
+		float: right;
+	}
+
+	.primary {
+		float: left;
+	}
+
 	/* ---- Columns ---- */
 
+	.col {
+		float: left;
+		padding-left: 1em;
+		padding-right: 1em;
+	}
+
+	.primary {
+		width: 60%;
+	}
+
+	.secondary {
+		width: 40%;
+	}
 	
 	
 	/* ------------- */
